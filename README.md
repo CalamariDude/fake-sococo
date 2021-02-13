@@ -1,5 +1,10 @@
 # fake-sococo
 
-# Setup
-```cd server```
+## Setup
+Just run:
+```cd server```  
+Then
 ```npm i```
+
+## Usage
+```npm run start```
